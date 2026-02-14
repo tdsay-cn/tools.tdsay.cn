@@ -111,8 +111,3 @@ Your feedback helps Tudousi Tools improve and grow 🚀
 ---
 
 ### ⭐ If you find Tudousi Tools useful, consider sharing it with others!
-
-
----
-
-### ⭐ If you find Tudousi Tools useful, consider sharing it with others!
