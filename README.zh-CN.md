@@ -99,11 +99,14 @@
 
 ## 💬 意见反馈
 
-欢迎提出建议或新工具想法！
+如果你有新工具建议、功能需求，或者发现了问题，欢迎联系我们：
 
-📩 反馈入口：  
-https://tools.tdsay.cn/view/site/feedback.html
+- 📩 邮箱反馈：toolstdsay@foxmail.com  
+- 🐛 GitHub Issues：欢迎在本仓库提交 Issue
+
+你的建议会帮助土豆丝工具不断完善 🚀
 
 ---
+
 
 ### ⭐ 如果你觉得土豆丝工具有帮助，欢迎分享给更多人！
