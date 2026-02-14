@@ -99,11 +99,19 @@ A minimalist collection of free online tools designed for developers and everyda
 
 ## 💬 Feedback & Suggestions
 
-Have an idea for a new tool?  
-Feel free to share feedback anytime:
+Have an idea for a new tool or found a bug?
 
-📩 Feedback Page:  
-https://tools.tdsay.cn/en/view/site/feedback.html
+You can reach us here:
+
+- 📩 Email: toolstdsay@foxmail.com  
+- 🐛 GitHub Issues: Feel free to open an issue in this repository
+
+Your feedback helps Tudousi Tools improve and grow 🚀
+
+---
+
+### ⭐ If you find Tudousi Tools useful, consider sharing it with others!
+
 
 ---
 
