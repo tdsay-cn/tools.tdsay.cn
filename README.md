@@ -13,10 +13,10 @@ A minimalist collection of free online tools designed for developers and everyda
 
 **Tudousi Tools** is a clean, fast, privacy-friendly toolbox that runs directly in your browser.
 
-- ⚡ Lightweight and instant
-- 🔒 Local processing (no uploads)
-- 🚫 No ads, no tracking
-- 🎯 Built for developers & daily productivity
+- ⚡ Lightweight and instant  
+- 🔒 Local processing (no uploads)  
+- 🛡 Privacy-friendly design  
+- 🎯 Built for developers & daily productivity  
 
 ---
 
@@ -104,7 +104,7 @@ Have an idea for a new tool or found a bug?
 You can reach us here:
 
 - 📩 Email: toolstdsay@foxmail.com  
-- 🐛 GitHub Issues: Feel free to open an issue in this repository
+- 🐛 GitHub Issues: Feel free to open an issue in this repository  
 
 Your feedback helps Tudousi Tools improve and grow 🚀
 
